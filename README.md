@@ -1,6 +1,6 @@
-#Rocket-q
+# Rocket-q
 
-##Made for the NLWTOGETHER event
+## Made for the NLWTOGETHER event
 
 ejs
 javascript
