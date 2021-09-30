@@ -6,7 +6,6 @@
 - In the command line, run 'npm install'
 - Run 'npm start'
 
-ejs
 javascript
 css
 nodejs
